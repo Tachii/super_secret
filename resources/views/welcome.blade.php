@@ -14,4 +14,5 @@
         </div>
     </div>
 </div>
+<script src="/js/application.min.js"></script>
 @endsection

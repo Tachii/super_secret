@@ -1,12 +1,24 @@
 {
+  "name": "shop",
   "private": true,
-  "scripts": {
-    "prod": "gulp --production",
-    "dev": "gulp watch"
-  },
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "laravel-elixir": "^5.0.0",
-    "bootstrap-sass": "^3.0.0"
+  "version": "0.0.1",
+  "dependencies": {
+    "babel-preset-es2016": "*",
+    "browser-sync": "*",
+    "gulp": "*",
+    "gulp-babel": "*",
+    "gulp-browserify": "*",
+    "gulp-imagemin": "*",
+    "gulp-notify": "*",
+    "gulp-plumber": "*",
+    "gulp-rename": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-stylus": "*",
+    "gulp-uglify": "*",
+    "gulp-util": "*",
+    "jquery": "3.1.0",
+    "nib": "1.1.2",
+    "normalize.stylus": "*",
+    "gulp-pug": "*"
   }
 }

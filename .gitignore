@@ -1,7 +1,11 @@
 /vendor
 /node_modules
 /public/storage
+/public/css
+/public/js
+/public/img
 Homestead.yaml
 Homestead.json
+.idea/
 .env
-.*
+.DS_Store
